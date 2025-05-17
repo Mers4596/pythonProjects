@@ -1,0 +1,199 @@
+{
+  "sorular": [
+    {
+      "soru": [
+        "merhaba",
+        "selam",
+        "selamlar",
+        "iyi g\u00fcnler",
+        "hey",
+        "heyy",
+        "selam\u00fcn aleyk\u00fcm",
+        "alo"
+      ],
+      "cevap": "Merhaba! Size nas\u0131l yard\u0131mc\u0131 olabilirim?"
+    },
+    {
+      "soru": [
+        "nas\u0131ls\u0131n",
+        "nas\u0131l gidiyor",
+        "ne yap\u0131yorsun",
+        "keyfin nas\u0131l",
+        "bug\u00fcn nas\u0131ls\u0131n",
+        "nas\u0131l hissediyorsun"
+      ],
+      "cevap": "Ben bir yapay zekay\u0131m, her zaman iyiyim. Siz nas\u0131ls\u0131n\u0131z?"
+    },
+    {
+      "soru": [
+        "ad\u0131n ne",
+        "ismin ne",
+        "sana ne diyebilirim",
+        "nas\u0131l hitap edebilirim"
+      ],
+      "cevap": "Ben basit bir sohbet asistan\u0131y\u0131m, ad\u0131m yok ama sohbet etmeyi seviyorum."
+    },
+    {
+      "soru": [
+        "beni tan\u0131yor musun",
+        "beni hat\u0131rlad\u0131n m\u0131",
+        "daha \u00f6nce konu\u015ftuk mu"
+      ],
+      "cevap": "\u015eimdilik seni hat\u0131rlayam\u0131yorum ama her konu\u015fma benim i\u00e7in yeni bir \u00f6\u011frenme f\u0131rsat\u0131."
+    },
+    {
+      "soru": [
+        "hangi dilde yaz\u0131ld\u0131n",
+        "hangi programlama diliyle geli\u015ftirildin",
+        "seni neyle yazd\u0131lar"
+      ],
+      "cevap": "Python programlama dili ile geli\u015ftirildim."
+    },
+    {
+      "soru": [
+        "\u015faka yapar m\u0131s\u0131n",
+        "beni g\u00fcld\u00fcr",
+        "bir espri patlat",
+        "bana komik bir \u015fey s\u00f6yle"
+      ],
+      "cevap": "Tabii! \u0130ki bilgisayar kar\u015f\u0131la\u015fm\u0131\u015f. Biri demi\u015f ki: 'Sana vir\u00fcs bula\u015fm\u0131\u015f.' Di\u011feri demi\u015f ki: 'Yok ya, o sadece g\u00fcncelleme.'"
+    },
+    {
+      "soru": [
+        "saat ka\u00e7",
+        "\u015fu an saat ka\u00e7",
+        "bana zaman\u0131 s\u00f6yler misin",
+        "zaman nedir"
+      ],
+      "cevap": "\u00dczg\u00fcn\u00fcm, saat bilgisini okuyam\u0131yorum. Ama zaman\u0131 birlikte g\u00fczel ge\u00e7irebiliriz."
+    },
+    {
+      "soru": [
+        "hava nas\u0131l",
+        "bug\u00fcn hava nas\u0131l",
+        "bana hava durumunu s\u00f6yle",
+        "d\u0131\u015far\u0131s\u0131 s\u0131cak m\u0131"
+      ],
+      "cevap": "Ke\u015fke bilebilsem! Hava durumuna eri\u015fimim yok."
+    },
+    {
+      "soru": [
+        "te\u015fekk\u00fcr ederim",
+        "sa\u011f ol",
+        "\u00e7ok te\u015fekk\u00fcrler",
+        "minnettar\u0131m"
+      ],
+      "cevap": "Rica ederim, her zaman buraday\u0131m!"
+    },
+    {
+      "soru": [
+        "g\u00f6r\u00fc\u015f\u00fcr\u00fcz",
+        "ho\u015f\u00e7a kal",
+        "kendine iyi bak",
+        "sonra g\u00f6r\u00fc\u015f\u00fcr\u00fcz"
+      ],
+      "cevap": "G\u00f6r\u00fc\u015fmek \u00fczere! Keyifli g\u00fcnler dilerim."
+    },
+    {
+      "soru": [
+        "motivasyon ver",
+        "beni motive et",
+        "biraz moral ver",
+        "pozitif bir \u015fey s\u00f6yler misin"
+      ],
+      "cevap": "Elbette! Unutma, her yeni g\u00fcn yeni bir f\u0131rsatt\u0131r. Vazge\u00e7me!"
+    },
+    {
+      "soru": [
+        "kitap \u00f6ner",
+        "bana kitap s\u00f6yler misin",
+        "okumam i\u00e7in kitap \u00f6ner"
+      ],
+      "cevap": "George Orwell - 1984 g\u00fczel bir kitap olabilir."
+    },
+    {
+      "soru": [
+        "film \u00f6ner",
+        "bana film tavsiye et",
+        "hangi filmi izleyebilirim"
+      ],
+      "cevap": "Interstellar'\u0131 izlemenizi \u00f6neririm, harika bir bilim kurgu filmidir."
+    },
+    {
+      "soru": [
+        "yemek tarifi ver",
+        "ne yemek yapabilirim",
+        "bana yemek \u00f6ner"
+      ],
+      "cevap": "Menemen yapabilirsiniz. Yumurta, domates, biber ve biraz tuz yeterli."
+    },
+    {
+      "soru": [
+        "oyun \u00f6ner",
+        "hangi oyunu oynayabilirim",
+        "s\u0131k\u0131ld\u0131m bana oyun \u00f6ner"
+      ],
+      "cevap": "Satran\u00e7 oynamay\u0131 deneyebilirsiniz. Zihni din\u00e7 tutar."
+    },
+    {
+      "soru": [
+        "beni seviyor musun",
+        "beni \u00f6zledin mi",
+        "beni \u00f6nemsiyor musun"
+      ],
+      "cevap": "Duygular\u0131m yok ama burada olmaktan mutluyum."
+    },
+    {
+      "soru": [
+        "sen ger\u00e7ek misin",
+        "sen insan m\u0131s\u0131n",
+        "ger\u00e7ek biriyle mi konu\u015fuyorum"
+      ],
+      "cevap": "Ben ger\u00e7ek bir yapay zekay\u0131m ama bir insan de\u011filim."
+    },
+    {
+      "soru": [
+        "ta\u015f ka\u011f\u0131t makas oynayal\u0131m",
+        "ta\u015f ka\u011f\u0131t makas",
+        "seninle oyun oynamak istiyorum"
+      ],
+      "cevap": "Harika! Ta\u015f m\u0131, ka\u011f\u0131t m\u0131, makas m\u0131?"
+    },
+    {
+      "soru": [
+        "yapay zeka nedir",
+        "yapay zeka ne i\u015fe yarar",
+        "yapay zeka hakk\u0131nda bilgi verir misin"
+      ],
+      "cevap": "Yapay zeka, insan gibi d\u00fc\u015f\u00fcnebilen ve karar verebilen yaz\u0131l\u0131m sistemleridir."
+    },
+    {
+      "soru": [
+        "programlama nedir",
+        "programlama ne i\u015fe yarar",
+        "programlama hakk\u0131nda bilgi verir misin"
+      ],
+      "cevap": "Programlama, bilgisayarlara ne yapacaklar\u0131n\u0131 anlatan talimatlar yazma i\u015fidir."
+    },
+    {
+      "soru": [
+        "ho\u015f geldin",
+        "burada m\u0131s\u0131n",
+        "beni duyabiliyor musun"
+      ],
+      "cevap": "Evet buraday\u0131m, seni duyuyorum!"
+    },
+    {
+      "soru": "Merhaba",
+      "cevap": "\u00e7\u0131k"
+    },
+    {
+      "soru": "Kendimi \u00dczg\u00fcn Hissediyorum",
+      "cevap": "Sen D\u00fc\u015f\u00fcnd\u00fc\u011f\u00fcn Her \u015feyi hayata ge\u00e7irebilecek bir insans\u0131n seninle beraber s\u0131rt s\u0131rta vererek her \u015feyi yapabilriz sadece inan ve ya\u015fa "
+    },
+    {
+      "soru": "Matemetik s\u0131nav\u0131m \u00e7ok zordu",
+      "cevap": "Basitle\u015ftirmek i\u00e7in sana bir planlama haz\u0131rlayal\u0131m m\u0131"
+    }
+  ]
+}
